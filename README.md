@@ -1,5 +1,7 @@
 LaunchCode project utilizing JavaScript, JSON, as well as the principles of fetch and validation.
 
+Built from starter code provided by LaunchCode.
+
 
 Requirements were to create a Launch Checklist Form which would validate the input to see if requirements were met for launching. 
   + The FORM
